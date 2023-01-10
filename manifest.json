@@ -1,6 +1,6 @@
 {
     "name": "RedlineModpack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/malandles/redline.valheim.modpack",
     "description": "Valheim modpack for the private server Redline.",
     "dependencies": [
@@ -33,7 +33,6 @@
         "OdinPlus-OdinShip-0.2.2",
         "OdinPlus-OdinCampsite-1.4.1",
         "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.2.5",
-        "Smoothbrain-Backpacks-1.0.3",
         "Xenofell-TorchesEternal-0.2.0",
         "Xenofell-BuildHelper-0.2.0",
         "Advize-PlantEverything-1.12.0",
@@ -51,6 +50,7 @@
         "CW_Jesse-BetterNetworking_Valheim-1.2.201",
         "LVH-IT-UseEquipmentInWater-0.2.3",
         "pipakin-SkillInjector-1.1.1",
-        "Hub-VitalitySkill-1.5.8"
+        "Hub-VitalitySkill-1.5.8",
+        "JotunnBackpacks-JotunnBackpacks-2.1.2"
     ]
 }

@@ -80,11 +80,11 @@ PlantEverything - https://valheim.thunderstore.io/package/Advize/PlantEverything
 
 ## New features/items
 
-Backpacks - https://valheim.thunderstore.io/package/Smoothbrain/Backpacks/
-> A simple mod that adds a simple backpack. For now.
-
 BetterArchery - https://valheim.thunderstore.io/package/ishid4/BetterArchery/
 > Adds many features and changes to bow gameplay.
+
+JotunnBackpacks - https://valheim.thunderstore.io/package/JotunnBackpacks/JotunnBackpacks/
+> Adds two new craftable backpacks into the game.
 
 OdinCampsite - https://valheim.thunderstore.io/package/OdinPlus/OdinCampsite
 > Campsite is just simple mod for additional pieces thanks to which you can travel safe and save time to build temporary bases. Become the real adventurer!
