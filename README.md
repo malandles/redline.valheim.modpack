@@ -5,6 +5,9 @@
 `BepInEx/config/ishid4.mods.betterarchery.cfg`:
 - Change location of inventory quiver slot: `{"x":635.0,"y":-25.0}`
 
+`BepInEx/config/randyknapp.mods.auga.cfg`:
+- UseAugaTrash: `true`
+
 `BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg`:
 - Quick slot hotkey 1: `z`
 - Quick slot hotkey 2: `x` (also reset your ingame keybind)
