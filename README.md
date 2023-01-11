@@ -1,6 +1,20 @@
 # Redline's Valheim Modpack
 
-## Required
+## Optimal configuration
+
+`BepInEx/config/ishid4.mods.betterarchery.cfg`:
+- Change location of inventory quiver slot: `{"x":635.0,"y":-25.0}`
+
+`BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg`:
+- Quick slot hotkey 1: `z`
+- Quick slot hotkey 2: `x` (also reset your ingame keybind)
+- Quick slot hotkey 3: `c`
+- Quick Slots Anchor: `LowerRight`
+- Quick Slots Position: `{"x":-256.0,"y":150.0}`
+
+## Mod lists
+
+### Required
 
 BepInExPack Valheim - https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
 > BepInEx pack for Valheim. Preconfigured and includes unstripped Unity DLLs.
@@ -15,16 +29,13 @@ ReviveAllies - https://valheim.thunderstore.io/package/Ratzu/ReviveAllies
 > Allows you to revive your friends at their tombstone within a revive window.
 
 
-## UI
+### UI
 
-BetterUI Reforged - https://valheim.thunderstore.io/package/thedefside/BetterUI_Reforged/
-> Masa's BetterUI mod updated with bug fixes and new features
+Auga - https://valheim.thunderstore.io/package/RandyKnapp/Auga/
+> A fresh new look for Valheim
 
 
-## Quality of life
-
-AAA_Crafting - https://valheim.thunderstore.io/package/Azumatt/AAA_Crafting/
-> Azu Anti-Arthritic Crafting. Gives you an input field to enter the amount of items you want to craft. Instead of having to click the craft button 100 times or a fancy plus button 5-10 times.
+### Quality of life
 
 AzuWorkbench Inventory Repair - https://valheim.thunderstore.io/package/Azumatt/AzuWorkbench_Inventory_Repair/
 > Automatically repair your items when you interact with a workbench or crafting table.
@@ -44,17 +55,11 @@ DodgeOnDoubleTap - https://valheim.thunderstore.io/package/RoundStone/DodgeOnDou
 FloatingItems - https://valheim.thunderstore.io/package/castix/FloatingItems
 > This simple mod makes all items float on the water surface.
 
-MoreSlots - https://valheim.thunderstore.io/package/Fang86/MoreSlots
-> This mod adds extra rows into your inventory. You can change this to any number you want - equal to or over 4. By default, the mod adds 2 rows (16 slots).
-
-Quick Stack Store Sort Trash Restock - https://valheim.thunderstore.io/package/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock
-> Quick Stacking, Sorting, Trashing and more in one cohesive package
-
-RequipMe - https://valheim.thunderstore.io/package/Neobotics/RequipMe
-> Instantly re-equip from your tombstone!
-
 SimpleRecycling_Fixed - https://valheim.thunderstore.io/package/remmiz/SimpleRecycling_Fixed
 > Adds a tab to the crafting station that recycles (uncrafts) items from player inventory
+
+SimpleSort - https://valheim.thunderstore.io/package/Nexus/SimpleSort/
+> Lets you sort player and container inventory by name, weight, or value using hotkeys, or automatically on open. Created by aedenthorn
 
 SNEAKer - https://valheim.thunderstore.io/package/blacks7ar/SNEAKer
 > A simple mod that makes your sneaking speed scaled by your Sneak skill level.
@@ -69,7 +74,7 @@ UseEquipmentInWater - https://valheim.thunderstore.io/package/LVH-IT/UseEquipmen
 > Allows you to use your Equipment while swimming in water
 
 
-## Farming
+### Farming
 
 MassFarming - https://valheim.thunderstore.io/package/k942/MassFarming
 > Xeio's mod to assist with large scale farming in Valheim
@@ -78,7 +83,7 @@ PlantEverything - https://valheim.thunderstore.io/package/Advize/PlantEverything
 > Allows your cultivator to plant berry bushes, thistle, dandelions, mushrooms, previously unavailable tree types, and other decorative flora. Includes many other miscellaneous features (see description). Highly configurable with localization support.
 
 
-## New features/items
+### New features/items
 
 BetterArchery - https://valheim.thunderstore.io/package/ishid4/BetterArchery/
 > Adds many features and changes to bow gameplay.
@@ -104,7 +109,7 @@ Spearfishing - https://valheim.thunderstore.io/package/Korppis/Spearfishing
 StaminaRegenerationFromFood - https://valheim.thunderstore.io/package/Smoothbrain/StaminaRegenerationFromFood/
 > Makes consuming food increase your stamina regeneration.
 
-## Custom Skills
+### Custom Skills
 
 Blacksmithing - https://valheim.thunderstore.io/package/Smoothbrain/Blacksmithing
 > Adds a skill that increases the durability of armor and weapons and other perks for blacksmithing.
