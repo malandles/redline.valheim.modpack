@@ -1,6 +1,6 @@
 {
     "name": "RedlineModpack",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/malandles/redline.valheim.modpack",
     "description": "Valheim modpack for the private server Redline.",
     "dependencies": [
@@ -48,6 +48,7 @@
         "pipakin-SkillInjector-1.1.1",
         "Hub-VitalitySkill-1.5.8",
         "JotunnBackpacks-JotunnBackpacks-2.1.2",
-        "Nexus-SimpleSort-0.7.0"
+        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.2.5",
+        "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.2"
     ]
 }

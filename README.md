@@ -5,6 +5,9 @@
 `BepInEx/config/ishid4.mods.betterarchery.cfg`:
 - Change location of inventory quiver slot: `{"x":635.0,"y":-25.0}`
 
+`BepInEx/config/goldenrevolver.quick_stack_store.cfg`:
+- OverrideButtonDisplay: `DisableAllNewButtons`
+
 `BepInEx/config/randyknapp.mods.auga.cfg`:
 - UseAugaTrash: `true`
 
@@ -58,11 +61,14 @@ DodgeOnDoubleTap - https://valheim.thunderstore.io/package/RoundStone/DodgeOnDou
 FloatingItems - https://valheim.thunderstore.io/package/castix/FloatingItems
 > This simple mod makes all items float on the water surface.
 
+Instantly Destroy Boats And Carts - https://valheim.thunderstore.io/package/Goldenrevolver/Instantly_Destroy_Boats_And_Carts/
+> Allows you to instantly destroy a boat/ ship or cart with the destroy function of the hammer.
+
+Quick Stack Store Sort Trash Restock - https://valheim.thunderstore.io/package/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/
+> Quick Stacking, Sorting, Trashing and more in one cohesive package
+
 SimpleRecycling_Fixed - https://valheim.thunderstore.io/package/remmiz/SimpleRecycling_Fixed
 > Adds a tab to the crafting station that recycles (uncrafts) items from player inventory
-
-SimpleSort - https://valheim.thunderstore.io/package/Nexus/SimpleSort/
-> Lets you sort player and container inventory by name, weight, or value using hotkeys, or automatically on open. Created by aedenthorn
 
 SNEAKer - https://valheim.thunderstore.io/package/blacks7ar/SNEAKer
 > A simple mod that makes your sneaking speed scaled by your Sneak skill level.
