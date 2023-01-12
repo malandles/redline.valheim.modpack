@@ -1,3 +1,8 @@
+## 1.1.2
+
+- Updated to latest dependencies
+- Removed dependency `ExtendedItemDataFramework`
+
 ## 1.1.1
 
 - Added `Instantly Destroy Boats And Carts`

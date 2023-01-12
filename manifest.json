@@ -1,6 +1,6 @@
 {
     "name": "RedlineModpack",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/malandles/redline.valheim.modpack",
     "description": "Valheim modpack for the private server Redline.",
     "dependencies": [
