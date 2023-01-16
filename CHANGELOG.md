@@ -1,3 +1,7 @@
+## 1.1.3
+
+- Replaced `JotunnBackpacks` by `Adventure Backpacks`, which is an optimized version of the later without `Jotunn`
+
 ## 1.1.2
 
 - Updated to latest dependencies
