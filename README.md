@@ -55,6 +55,9 @@ Build_Camera - https://valheim.thunderstore.io/package/gittywithexcitement/Build
 BuildHelper - https://valheim.thunderstore.io/package/Xenofell/BuildHelper/
 > BuildHelper provides some handy tweaks to help make builder's lives easier.
 
+Digitalroots Slope Combat Assistance - https://valheim.thunderstore.io/package/Digitalroot/Digitalroots_Slope_Combat_Assistance/
+> Digitalroot's take on the Slope Combat Fix mod. DoD compatible.
+
 DodgeOnDoubleTap - https://valheim.thunderstore.io/package/RoundStone/DodgeOnDoubleTap/
 > 4 directional roll by double tapping WASD keys.
 
@@ -117,6 +120,9 @@ Spearfishing - https://valheim.thunderstore.io/package/Korppis/Spearfishing
 
 StaminaRegenerationFromFood - https://valheim.thunderstore.io/package/Smoothbrain/StaminaRegenerationFromFood/
 > Makes consuming food increase your stamina regeneration.
+
+UsefulArmorStands by subfin1 - https://valheim.thunderstore.io/package/vanrael/UsefulArmorStands_by_subfin1/
+> Nexus reupload of Subfin1's mod. Adds the ability to swap all of your equipped gear with the gear that is currently on an armor stand.
 
 ### Custom Skills
 
