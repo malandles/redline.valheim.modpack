@@ -1,3 +1,9 @@
+## 1.1.4
+
+- Added `Digitalroots Slope Combat Assistance`, combat in the Mistlands should feel better!
+- Added `UsefulArmorStands`, which let you swap loadout with the armor stands
+- Updated the latest dependencies
+
 ## 1.1.3
 
 - Replaced `JotunnBackpacks` by `Adventure Backpacks`, which is an optimized version of the later without `Jotunn`
