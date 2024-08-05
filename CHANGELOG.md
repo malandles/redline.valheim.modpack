@@ -1,3 +1,33 @@
+## 1.2.0 - 1.2.2: Ashland Update
+
+Cleanup of the mods that are no longer compatible:
+
+- Updated to latest dependencies
+- Added `Official BepInEx ConfigurationManager`
+- Added `Waypoints`
+- Replaced `Auga` (confirmed broken) by `Minimal UI`
+- Replaced `AzuWorkbench_Inventory_Repair` by `AutoRepair`
+- Replaced `Build_Camera` by `Build_Camera_Custom_Hammers_Edition`
+- Replaced `VitalitySkill` by `VitalityRewrite`
+- Replaced `OdinShipPlus` by `OdinShip` (server requirement)
+- Replaced `FirstPerson` by `FirstPersonMode`
+- Replaced `Clock` by `AzuClock`
+- Replaced `ReviveAllies` (confirmed broken) by `Resurrection`
+- Replaced `SimpleRecycling_Fixed-` by `Recycle_N_Reclaim`
+- Replaced `DodgeOnDoubleTap` by `DodgeShortcut`
+- Removed `AzuMapDetails`
+- Removed `FloatingItems` (might be re-added in the future)
+- Removed `BetterChat`
+- Removed `BetterNetworking_Valheim` (might be re-added in the future)
+- Removed `Instantly_Destroy_Boats_And_Carts`
+- Removed `MassFarming` (confirmed broken)
+- Removed `OdinCampsite` (might be re-added in the future)
+- Removed `OdinHorse` (might be re-added in the future)
+- Removed `Auga` (confirmed broken)
+- Removed `UsefulArmorStands_by_subfin1`
+- Removed `AdventureBackpacks`
+- Removed `BuildHelper`
+
 ## 1.1.4
 
 - Added `Digitalroots Slope Combat Assistance`, combat in the Mistlands should feel better!
