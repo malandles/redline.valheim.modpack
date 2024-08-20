@@ -1,3 +1,12 @@
+## 1.2.3
+
+- Added `PetPantry`
+- Added `CarryMeMaster`
+- Added `GsiX Multicraft`, which also replaces `AutoRepair`
+- Added `Spearfishing`
+- Re-added `FloatingItems` (might not be compatible with Ashland, to confirm)
+- Re-added `BetterNetworking_Valheim`
+
 ## 1.2.0 - 1.2.2: Ashland Update
 
 Cleanup of the mods that are no longer compatible:
