@@ -1,3 +1,7 @@
+## 1.2.5
+
+- Removed `FloatingItems`, breaks in Ashlands waters
+
 ## 1.2.4
 
 - Updated dependencies

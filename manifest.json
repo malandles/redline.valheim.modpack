@@ -1,6 +1,6 @@
 {
     "name": "RedlineModpack",
-    "version_number": "1.2.4",
+    "version_number": "1.2.5",
     "website_url": "https://github.com/malandles/redline.valheim.modpack",
     "description": "Valheim modpack for the private server Redline, Ashlands update.",
     "dependencies": [
@@ -16,7 +16,6 @@
         "Azumatt-PetPantry-1.0.2",
         "Azumatt-Recycle_N_Reclaim-1.3.4",
         "blacks7ar-SNEAKer-1.1.4",
-        "castix-FloatingItems-1.0.0",
         "CookieMilk-CarryMeMaster-1.0.0",
         "CW_Jesse-BetterNetworking_Valheim-2.3.2",
         "denikson-BepInExPack_Valheim-5.4.2202",
