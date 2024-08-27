@@ -1,3 +1,8 @@
+## 1.2.4
+
+- Updated dependencies
+- Removed `Waypoints`
+
 ## 1.2.3
 
 - Added `PetPantry`
